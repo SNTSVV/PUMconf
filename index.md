@@ -2,6 +2,8 @@
 
 ## Overview 
 
+{% include youtube.html id=uLIio468jWE %}
+
 PUMConf (Product line Use case Model Configurator) is a tool integrated with an industrial requirements management tool (i.e., IBM Doors) as a plug-in relying on Natural Language Processing (NLP) to report inconsistencies in Product Line (PL) use cases and contradicting decisions, and to automatically generate Product Specific (PS) use case and domain models.
 The key features of PUMConf are:
 
@@ -23,7 +25,7 @@ To install and run PUMConf please:
 
 1. Download the installation package and example models together: PUMConf_Distribution
 
-2. Follow PUMConf user manual: PUMConf_UserManual
+2. Follow PUMConf user manual: [PUMConf_UserManual](data/PUMConf_UserManual.pdf}
 
 
 
