@@ -24,7 +24,8 @@ PUMConf has been successfully evaluated on an industrial case study.
 To install and run PUMConf please: 
 
 1. Download the installation package and example models together: PUMConf_Distribution
-2. Follow PUMConf user manual: [PUMConf_UserManual]{data/PUMConf_UserManual.pdf}
+2. Follow PUMConf user manual: [PUMConf_UserManual](data/PUMConf_UserManual.pdf)
+
 
 
 
